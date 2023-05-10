@@ -2,6 +2,7 @@
 My name is Erik Torres and I am a computer programmer analyst student, I am currently in my degree process
 
 🔭 I’m currently working on my title portfolio
+
 🌱 I’m currently learning Framework Django and react library
 
 <!--
