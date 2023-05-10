@@ -1,8 +1,8 @@
 ### Hello 👋, 
 My name is Erik Torres and I am a computer programmer analyst student, I am currently in my degree process
 
-- 🔭 I’m currently working on my title portfolio
-- 🌱 I’m currently learning Framework Django and react library
+🔭 I’m currently working on my title portfolio
+🌱 I’m currently learning Framework Django and react library
 
 <!--
 **Eriktorress/eriktorress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
