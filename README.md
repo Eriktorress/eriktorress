@@ -1,5 +1,4 @@
-### Hello 👋, 
-My name is Erik Torres and I am a computer programmer analyst student, I am currently in my degree process
+###  Hi, I'm Erik and I am a computer programmer analyst student, I am currently in my degree process
 
 🔭 I’m currently working on my title portfolio
 
